@@ -1,0 +1,6 @@
+{
+  "name": "WORLD FORGE",
+  "description": "Zero-code browser-based 3D game, world, and interactive universe creation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
